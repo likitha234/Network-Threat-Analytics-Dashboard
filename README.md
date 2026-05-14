@@ -10,7 +10,7 @@ Business Intelligence and predictive analytics dashboard for cyber threat detect
 * KPI-based reporting
 * Threat trend visualization
 * Detection accuracy monitoring
-
+  
 ## Tech Stack
 
 Python, Django, Scikit-learn, Pandas, HTML/CSS, JavaScript, SQLite
