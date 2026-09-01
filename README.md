@@ -1,4 +1,4 @@
-# Network Threat Analytics Dashboard
+# Cyber Attack Prediction System
 
 Business Intelligence and predictive analytics dashboard for cyber threat detection using Python, Django, machine learning, and visualization tools.
 
